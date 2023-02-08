@@ -1,0 +1,22 @@
+.sign-up {
+  border-radius: 15px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: #3882f6;
+  margin: 150px auto 150px auto;
+  height: 150px;
+  width: 75%;
+}
+
+.sign-up-btn {
+  background-color: #3882f6;
+  color: #f9faf8;
+  font-size: 24px;
+  padding: 10px 30px 10px 30px;
+  border: 2px solid white;
+  border-radius: 15px;
+}
+.container {
+color: white;
+}
